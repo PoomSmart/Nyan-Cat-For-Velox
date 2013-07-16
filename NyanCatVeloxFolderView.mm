@@ -6,7 +6,7 @@
 	AVAudioPlayer* nyanAudio;
 	UIImageView *nyanCatImages;
 }
-@property (nonatomi c,retain) AVAudioPlayer* nyanAudio;
+@property (nonatomic, retain) AVAudioPlayer* nyanAudio;
 @property (nonatomic, retain) UIImageView *nyanCatImages;
 @end
 
@@ -55,7 +55,6 @@
 
 }
 
-// dealloc better ?
 - (void)dealloc
 {
 	[self.nyanAudio stop]; // stop playing music
