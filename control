@@ -1,9 +1,9 @@
-Package: org.thebigboss.NyanCatVelox
+Package: org.thebigboss.nyancatvelox
 Name: Nyan Cat for Velox
 Depends: firmware (>= 6.0), com.apextweaks.velox
 Version: 0.1
 Architecture: iphoneos-arm
-Description: Nyan nyan nyan now in Velox!
+Description: Nyan nyan nyan cat in Velox!
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Addons (Velox)
